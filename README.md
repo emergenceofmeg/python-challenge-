@@ -1,4 +1,5 @@
 # python-challenge-
+Here is my first Python project. I have set up the repository according to the instructions. Please leave feedback that will help me connect and delve deeper into Python. 
 ## Setup
 
 Before starting the assignment, be sure to do the following:
